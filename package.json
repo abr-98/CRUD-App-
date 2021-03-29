@@ -1,0 +1,18 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "First test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Abhijit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.2",
+    "nodemon": "^2.0.7"
+  }
+}
